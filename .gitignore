@@ -2,5 +2,5 @@ bin
 include
 lib
 lib64
-version
+share
 pyvenv.cfg

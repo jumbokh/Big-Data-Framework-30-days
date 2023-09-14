@@ -1,1 +1,7 @@
 hdfs
+pandas
+pyspark
+pyarrow
+protobuf
+grpcio
+grpcio-status
