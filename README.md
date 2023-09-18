@@ -11,7 +11,7 @@ A **Linux** environment with **Python** installed is necessary
     $ cd Big-Data-Framework-30-days
     ```
 
-2. **Setup virtual ebvironment (optional but recommend)**
+2. **Setup virtual environment (optional but recommended)**
     ```
     $ pip install virtualenv
     $ python3 -m venv .
