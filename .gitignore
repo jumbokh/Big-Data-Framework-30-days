@@ -6,3 +6,4 @@ share
 pyvenv.cfg
 ml-latest-small
 derby.log
+*.jar
