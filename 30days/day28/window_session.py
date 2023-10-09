@@ -4,7 +4,6 @@ from pyflink.table.expressions import lit, col
 
 env_settings = EnvironmentSettings.in_streaming_mode()
 t_env = TableEnvironment.create(env_settings)
-t_env.get_config().get_configuration().set_string("execution.rowtime-timestamp-type", "from-source")
 
 t_env.execute_sql("""
     CREATE TABLE my_source (
